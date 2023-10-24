@@ -1,2 +1,2 @@
-# TextBlob-Vader-Sentiment-Analysis
-Sentiment analysis using TextBlob and Vader for text data.
+# Sentiment-Analysis with Kaggle Dataset
+https://www.kaggle.com/datasets/hassanamin/sentimentanalysismoviereviews
